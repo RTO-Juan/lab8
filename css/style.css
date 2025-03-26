@@ -16,14 +16,16 @@ overflow: hidden;
   float: left; 
 }
 
-
+#main-navbar{
+  float: left;  
+  position: relative;
+  right: 50%;
+  display: block;
+}
 float: left;   
 width: 100%;
 position: relative;  
-float: left;  
-position: relative;
-right: 50%;
-display: block;
+
 display: block;
 padding: 10px 20px;
 color: #fff;

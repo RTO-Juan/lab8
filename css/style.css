@@ -48,10 +48,12 @@ overflow: hidden;
   width: 20%;
 }
 
+#sidebar ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
 
-list-style-type: none;
-text-align: center;
-padding: 0;
 display: block;
 padding: 15px 0;
 color: #fff;
